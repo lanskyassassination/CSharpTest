@@ -6,3 +6,4 @@ C:\Users\aa\Desktop\google雲端\AI\中研院比賽\C#\CSharpTest\CSharpTest\CSh
 C:\Users\aa\Desktop\google雲端\AI\中研院比賽\C#\CSharpTest\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csproj.GenerateResource.Cache
 C:\Users\aa\Desktop\google雲端\AI\中研院比賽\C#\CSharpTest\CSharpTest\CSharpTest\obj\Debug\CSharpTest.exe
 C:\Users\aa\Desktop\google雲端\AI\中研院比賽\C#\CSharpTest\CSharpTest\CSharpTest\obj\Debug\CSharpTest.pdb
+C:\Users\aa\Desktop\google雲端\AI\中研院比賽\C#\CSharpTest\CSharpTest\CSharpTest\obj\Debug\CSharpTest.Form1.resources
